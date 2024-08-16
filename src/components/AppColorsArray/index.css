@@ -1,0 +1,43 @@
+li {
+  list-style: none;
+  text-align: left;
+
+  font-size: auto;
+}
+
+ul:first-of-type {
+  position: absolute;
+  right: 20%;
+  top: 450px;
+}
+
+ul:first-of-type li:first-of-type:hover {
+  color: #845ec2;
+  cursor: pointer;
+}
+ul:first-of-type li:nth-of-type(2):hover {
+  color: #d65db1;
+  cursor: pointer;
+}
+ul:first-of-type li:nth-of-type(3):hover {
+  color: #ff6f91;
+  cursor: pointer;
+}
+ul:nth-of-type(2) {
+  position: absolute;
+  left: 20%;
+  top: 450px;
+}
+
+ul:nth-of-type(2) li:first-of-type:hover {
+  color: #c21807;
+  cursor: pointer;
+}
+ul:nth-of-type(2) li:nth-of-type(2):hover {
+  color: #e83256;
+  cursor: pointer;
+}
+ul:nth-of-type(2) li:nth-of-type(3):hover {
+  color: #f987c5;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.recipeInfo {
+  .name {
+    color: red;
+  }
+  img {
+    height: 50px;
+    width: auto;
+  }
+}

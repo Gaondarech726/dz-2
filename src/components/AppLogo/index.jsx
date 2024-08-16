@@ -1,0 +1,5 @@
+export function AppLogo() {
+  return (
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d9f7e31e-38ee-4733-a562-7081a289d346/dh14xis-bf78f828-9921-43e7-a381-fa5781f06df1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q5ZjdlMzFlLTM4ZWUtNDczMy1hNTYyLTcwODFhMjg5ZDM0NlwvZGgxNHhpcy1iZjc4ZjgyOC05OTIxLTQzZTctYTM4MS1mYTU3ODFmMDZkZjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.163hV_TaVONWeCDb0OgaFa61yr2Ky9KOl7UuaCfRSAo"></img>
+  );
+}
